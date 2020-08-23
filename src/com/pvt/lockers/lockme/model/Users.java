@@ -1,4 +1,4 @@
-package lockme.model;
+package com.pvt.lockers.lockme.model;
 
 public class Users {
 	

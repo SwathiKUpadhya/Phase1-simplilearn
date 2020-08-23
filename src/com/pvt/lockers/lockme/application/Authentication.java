@@ -1,7 +1,7 @@
-package lockme.application;
+package com.pvt.lockers.lockme.application;
 
-import lockme.model.UserCredentials;
-import lockme.model.Users;
+import com.pvt.lockers.lockme.model.UserCredentials;
+import com.pvt.lockers.lockme.model.Users;
 
 import java.io.File;
 import java.io.FileWriter;
